@@ -1940,10 +1940,102 @@
   resolved "https://registry.yarnpkg.com/@microsoft/tsdoc/-/tsdoc-0.13.2.tgz#3b0efb6d3903bd49edb073696f60e90df08efb26"
   integrity sha512-WrHvO8PDL8wd8T2+zBGKrMwVL5IyzR3ryWUsl0PXgEV0QHup4mTLi0QcATefGI6Gx9Anu7vthPyyyLpY0EpiQg==
 
+"@napi-rs/lzma-android-arm64@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-android-arm64/-/lzma-android-arm64-1.0.0.tgz#a7c4cac27d4e19aee6667e4dd38ff9751ff9ea88"
+  integrity sha512-9hNF+rnAxOTdUje1fuYqkQvDXMcOryNTc2xWWizOsUYSuGJV+KVKznk/FZZGaSN3roKtGPf7LdqX7kKOmOVN9g==
+
+"@napi-rs/lzma-darwin-arm64@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-darwin-arm64/-/lzma-darwin-arm64-1.0.0.tgz#53ad894121035d0734950b2b4c66e0d56e10da50"
+  integrity sha512-Uiv4DLqNE55ljA6RB4PGdQPcg/rKLZ2jG6VuwCCxU/m/x14/ROWCnOgaLafV4/rnofe3FPAgD5D32hAdAKBI0Q==
+
+"@napi-rs/lzma-darwin-x64@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-darwin-x64/-/lzma-darwin-x64-1.0.0.tgz#3a9bffb9f51f18779a8b1ac154595d7a59745e40"
+  integrity sha512-9uskZsP6+6MyvS6+cxU/G15lMCW/VY6lApntmEJzCzoK0afY0XbJFAHgsaCh9D3LeeUyEnnWKzbbXJmcXwiRyA==
+
+"@napi-rs/lzma-freebsd-x64@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-freebsd-x64/-/lzma-freebsd-x64-1.0.0.tgz#c16dd5b8a8b1b6cf3ee5c424764f174a114a09ba"
+  integrity sha512-LJpZIfbuKTuOk6/Mg6YQl2f+yf2Ms2Ll0qisCbdFQRJhy/vJ90T8yP2PyDNNO/TNg45MHBO5rd8JwyA8ozJisw==
+
+"@napi-rs/lzma-linux-arm-gnueabihf@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-linux-arm-gnueabihf/-/lzma-linux-arm-gnueabihf-1.0.0.tgz#4042cc5e1c19acb1dfadc2caccd408eb06c505ea"
+  integrity sha512-3dIiGt4+Lo0icBBYd9kckgLjiAFkpZZBuTnqZRUm8UlqlsrHJrta0yJRzS2V7n3hAsQUoYEdc/eUMeuXR0JauQ==
+
+"@napi-rs/lzma-linux-arm64-gnu@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-linux-arm64-gnu/-/lzma-linux-arm64-gnu-1.0.0.tgz#a07458265593c4b8bf146c6fc5656f181efd2b88"
+  integrity sha512-OGf342BtrwwtjO2O9M708UehkpYJzTQ3J7rDQIi8jkSw8hwxzpZ47RUlO4v1Dy4ujXxIFg7P7hS4rSnPgMWezA==
+
+"@napi-rs/lzma-linux-arm64-musl@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-linux-arm64-musl/-/lzma-linux-arm64-musl-1.0.0.tgz#b0579eb8f43db98a9071470fe94f96624245578e"
+  integrity sha512-CIbOsjmf2GdBZhVo6QjPhIbIXwKMdkUw51pzAFS9VgtwSU7vmT8y8eS221sZewCXuv7bZTcFXbQPhe0F92Tffg==
+
+"@napi-rs/lzma-linux-x64-gnu@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-linux-x64-gnu/-/lzma-linux-x64-gnu-1.0.0.tgz#c25fd1685ccefc1ec9327908537a626cdb3bcb4f"
+  integrity sha512-37EtSHjtFTFeZL6xec5vIhQrZRpQdaCBNvqHHDpaInJRjueGw+WCa/Xcp3cVmp0a64Lp4ewXcYMj5wxpKurkmw==
+
+"@napi-rs/lzma-linux-x64-musl@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-linux-x64-musl/-/lzma-linux-x64-musl-1.0.0.tgz#6b52ca712adbc0a3a7c17f4a3362b2431e72765a"
+  integrity sha512-kWQARiTndtOOW6DUTzv9LuDnSVtZgxUkdD8zQp4LuDcJQB6RNPZnfgDcE75Of+T5W6hJsz7oVUzsV+F7dNABEg==
+
+"@napi-rs/lzma-win32-arm64-msvc@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-win32-arm64-msvc/-/lzma-win32-arm64-msvc-1.0.0.tgz#04a7884bf5b004fcb87107f5fad859a1b911fa85"
+  integrity sha512-riX5KBJSZYWA+rnfRLJR/B0xO+l051PrR0URdIbCDWW8oL4xELGjZfyrP5hNOk6XeXoeyQaGNLdFRERGHxSABQ==
+
+"@napi-rs/lzma-win32-ia32-msvc@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-win32-ia32-msvc/-/lzma-win32-ia32-msvc-1.0.0.tgz#180f56834e7f834b6958466b1c1038dc82a0827e"
+  integrity sha512-d6sYRjtTPGTW5jhmgxaLWlU9Ln5gpHjx8GxlM7kaWF04bjQz7x/M26CH9pfKXDUyNAHOG9K/NS46ymfpgfOI8w==
+
+"@napi-rs/lzma-win32-x64-msvc@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma-win32-x64-msvc/-/lzma-win32-x64-msvc-1.0.0.tgz#e79f8ffa8dadd1156314dcc1f06eddb49b67f0af"
+  integrity sha512-a3TEGal8RCSTAiK8xwNUUyuHktiXsw0vAE695vjprxx7F8PsgVcPAJg1QndFX3uvlR1K8QJIJ6gg/HKMw5F4pg==
+
+"@napi-rs/lzma@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/lzma/-/lzma-1.0.0.tgz#a375901be1db36aa3760570a78bfb9da5d6442f5"
+  integrity sha512-lZ1JAO77VnRpq4a5L6kjXYo1BjfPH83CFx4MscMjvW8U/qL5OaP0uXoEP2SpM1IUAQz4E8TNBBi9QcRKjShWKg==
+  dependencies:
+    "@node-rs/helper" "^1.2.1"
+  optionalDependencies:
+    "@napi-rs/lzma-android-arm64" "^1.0.0"
+    "@napi-rs/lzma-darwin-arm64" "^1.0.0"
+    "@napi-rs/lzma-darwin-x64" "^1.0.0"
+    "@napi-rs/lzma-freebsd-x64" "^1.0.0"
+    "@napi-rs/lzma-linux-arm-gnueabihf" "^1.0.0"
+    "@napi-rs/lzma-linux-arm64-gnu" "^1.0.0"
+    "@napi-rs/lzma-linux-arm64-musl" "^1.0.0"
+    "@napi-rs/lzma-linux-x64-gnu" "^1.0.0"
+    "@napi-rs/lzma-linux-x64-musl" "^1.0.0"
+    "@napi-rs/lzma-win32-arm64-msvc" "^1.0.0"
+    "@napi-rs/lzma-win32-ia32-msvc" "^1.0.0"
+    "@napi-rs/lzma-win32-x64-msvc" "^1.0.0"
+
+"@napi-rs/triples@^1.0.3":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@napi-rs/triples/-/triples-1.1.0.tgz#88c35b72e79a20b79bb4c9b3e2817241a1c9f4f9"
+  integrity sha512-XQr74QaLeMiqhStEhLn1im9EOMnkypp7MZOwQhGzqp2Weu5eQJbpPxWxixxlYRKWPOmJjsk6qYfYH9kq43yc2w==
+
 "@nicolo-ribaudo/chokidar-2@2.1.8-no-fsevents.3":
   version "2.1.8-no-fsevents.3"
   resolved "https://registry.yarnpkg.com/@nicolo-ribaudo/chokidar-2/-/chokidar-2-2.1.8-no-fsevents.3.tgz#323d72dd25103d0c4fbdce89dadf574a787b1f9b"
   integrity sha512-s88O1aVtXftvp5bCPB7WnmXc5IwOZZ7YPuwNPt+GtOOXpPvad1LfbmjYv+qII7zP6RU2QGnqve27dnLycEnyEQ==
+
+"@node-rs/helper@^1.2.1":
+  version "1.2.1"
+  resolved "https://registry.yarnpkg.com/@node-rs/helper/-/helper-1.2.1.tgz#e079b05f21ff4329d82c4e1f71c0290e4ecdc70c"
+  integrity sha512-R5wEmm8nbuQU0YGGmYVjEc0OHtYsuXdpRG+Ut/3wZ9XAvQWyThN08bTh2cBJgoZxHQUPtvRfeQuxcAgLuiBISg==
+  dependencies:
+    "@napi-rs/triples" "^1.0.3"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
@@ -4402,19 +4494,18 @@ electron-packager@^15.4.0:
     semver "^7.1.3"
     yargs-parser "^20.0.0"
 
-electron-rebuild@^3.2.2:
-  version "3.2.3"
-  resolved "https://registry.yarnpkg.com/electron-rebuild/-/electron-rebuild-3.2.3.tgz#2c0b06b7b1a5240fec96f1d368d04222e2590c3d"
-  integrity sha512-9oxNmKlDCaf651c+yJWCDIBpF6A9aY+wQtasLEeR5AsPYPuOKEX6xHnC2+WgCLOC94JEpCZznecyC84fbwZq4A==
+"electron-rebuild@git+ssh://git@github.com:ts-project-fork/electron-rebuild.git#c45b61a":
+  version "0.0.0-development"
+  resolved "git+ssh://git@github.com:ts-project-fork/electron-rebuild.git#c45b61a326c98246a4ec86f086e159d50d30d5fa"
   dependencies:
     "@malept/cross-spawn-promise" "^2.0.0"
+    "@napi-rs/lzma" "^1.0.0"
     colors "^1.3.3"
     debug "^4.1.1"
     detect-libc "^1.0.3"
     fs-extra "^10.0.0"
     got "^11.7.0"
-    lzma-native "^8.0.1"
-    node-abi "^2.19.2"
+    node-abi "^3.0.0"
     node-api-version "^0.1.4"
     node-gyp "^8.1.0"
     ora "^5.1.0"
@@ -7138,15 +7229,6 @@ lunr@^2.3.9:
   resolved "https://registry.yarnpkg.com/lunr/-/lunr-2.3.9.tgz#18b123142832337dd6e964df1a5a7707b25d35e1"
   integrity sha512-zTU3DaZaF3Rt9rhN3uBMGQD3dD2/vFQqnvZCDv4dl5iOzq2IZQqTxu90r4E5J+nP70J3ilqVCrbho2eWaeW8Ow==
 
-lzma-native@^8.0.1:
-  version "8.0.1"
-  resolved "https://registry.yarnpkg.com/lzma-native/-/lzma-native-8.0.1.tgz#8569e2f88de461a9a2469ac9d8183637c387d682"
-  integrity sha512-Ryr9X3yDVZhRYOxR8QhUBCNe6GdEfy9BvFDIFtUvEkocvSvnrYt9lRm6FR1z0eQn0QSMenrgrDIJRMgUf9zsKQ==
-  dependencies:
-    node-addon-api "^3.1.0"
-    node-gyp-build "^4.2.1"
-    readable-stream "^3.6.0"
-
 macos-alias@~0.2.5:
   version "0.2.11"
   resolved "https://registry.yarnpkg.com/macos-alias/-/macos-alias-0.2.11.tgz#feeea6c13ba119814a43fc43c470b31e59ef718a"
@@ -7595,17 +7677,12 @@ no-case@^3.0.4:
     lower-case "^2.0.2"
     tslib "^2.0.3"
 
-node-abi@^2.19.2:
-  version "2.30.1"
-  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-2.30.1.tgz#c437d4b1fe0e285aaf290d45b45d4d7afedac4cf"
-  integrity sha512-/2D0wOQPgaUWzVSVgRMx+trKJRC2UG4SUc4oCJoXx9Uxjtp0Vy3/kt7zcbxHF8+Z/pK3UloLWzBISg72brfy1w==
+node-abi@^3.0.0:
+  version "3.5.0"
+  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.5.0.tgz#26e8b7b251c3260a5ac5ba5aef3b4345a0229248"
+  integrity sha512-LtHvNIBgOy5mO8mPEUtkCW/YCRWYEKshIvqhe1GHHyXEHEB5mgICyYnAcl4qan3uFeRROErKGzatFHPf6kDxWw==
   dependencies:
-    semver "^5.4.1"
-
-node-addon-api@^3.1.0:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/node-addon-api/-/node-addon-api-3.2.1.tgz#81325e0a2117789c0128dab65e7e38f07ceba161"
-  integrity sha512-mmcei9JghVNDYydghQmeDX8KoAm0FAiYyIcUt/N4nhyAipB17pllZQDOJD2fotxABnt4Mdz+dKTO7eftLg4d0A==
+    semver "^7.3.5"
 
 node-api-version@^0.1.4:
   version "0.1.4"
@@ -7632,11 +7709,6 @@ node-forge@^0.10.0:
   version "0.10.0"
   resolved "https://registry.yarnpkg.com/node-forge/-/node-forge-0.10.0.tgz#32dea2afb3e9926f02ee5ce8794902691a676bf3"
   integrity sha512-PPmu8eEeG9saEUvI97fm4OYxXVB6bFvyNTyiUOBichBpFG8A1Ljw3bY62+5oOjDEMHRnd0Y7HQ+x7uzxOzC6JA==
-
-node-gyp-build@^4.2.1:
-  version "4.3.0"
-  resolved "https://registry.yarnpkg.com/node-gyp-build/-/node-gyp-build-4.3.0.tgz#9f256b03e5826150be39c764bf51e993946d71a3"
-  integrity sha512-iWjXZvmboq0ja1pUGULQBexmxq8CV4xBhX7VDOTbL7ZR4FOowwY/VOtRxBN/yKxmdGoIp4j5ysNT4u3S2pDQ3Q==
 
 node-gyp@^8.1.0:
   version "8.2.0"
@@ -8621,7 +8693,7 @@ readable-stream@^2.0.1, readable-stream@^2.0.6:
     string_decoder "~1.1.1"
     util-deprecate "~1.0.1"
 
-readable-stream@^3.0.6, readable-stream@^3.4.0, readable-stream@^3.5.0, readable-stream@^3.6.0:
+readable-stream@^3.0.6, readable-stream@^3.4.0, readable-stream@^3.5.0:
   version "3.6.0"
   resolved "https://registry.yarnpkg.com/readable-stream/-/readable-stream-3.6.0.tgz#337bbda3adc0706bd3e024426a286d4b4b2c9198"
   integrity sha512-BViHy7LKeTz4oNnkcLJ+lVSL6vpiFeX6/d3oSH8zCW7UxP2onchk+vTGB143xuFjHS3deTgkKoXXymXqymiIdA==
@@ -9005,7 +9077,7 @@ semver-compare@^1.0.0:
   resolved "https://registry.yarnpkg.com/semver-compare/-/semver-compare-1.0.0.tgz#0dee216a1c941ab37e9efb1788f6afc5ff5537fc"
   integrity sha1-De4hahyUGrN+nvsXiPavxf9VN/w=
 
-"semver@2 || 3 || 4 || 5", semver@^5.4.1, semver@^5.5.0, semver@^5.6.0:
+"semver@2 || 3 || 4 || 5", semver@^5.5.0, semver@^5.6.0:
   version "5.7.1"
   resolved "https://registry.yarnpkg.com/semver/-/semver-5.7.1.tgz#a954f931aeba508d307bbf069eff0c01c96116f7"
   integrity sha512-sauaDf/PZdVgrLTNYHRtpXa1iRiKcaebiKQ1BJdpQlWH2lCvexQdX55snPFyK7QzpudqbCI0qXFfOasHdyNDGQ==
